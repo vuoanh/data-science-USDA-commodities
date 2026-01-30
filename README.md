@@ -101,12 +101,7 @@ The interactive dashboard ([dashboard/app.py](dashboard/app.py)) provides:
 **3. Interactive Data Table**
 - Sortable and filterable columns
 - Pagination with 10 rows per page
-- Conditional formatting by commodity:
-  - Cheese: Blue (#636EFA)
-  - Coffee: Red (#EF553B)
-  - Honey: Green (#00CC96)
-  - Milk: Purple (#AB63FA)
-  - Yogurt: Orange (#FFA15A)
+- Conditional formatting by commodity
 
 **4. Data Export**
 - Download filtered data as CSV
@@ -164,4 +159,5 @@ The analysis enables exploration of:
 - Regional production patterns and top-producing states
 - Commodity-specific growth and decline patterns
 - Cross-commodity comparisons by state and year
+
 
